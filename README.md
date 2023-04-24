@@ -1,7 +1,5 @@
 # Painting_classifier
 
-# Painting_classifier
-
 Overall model test accuracy: 51% 
 ![image](https://user-images.githubusercontent.com/96949018/233967330-784474ce-5bd1-490d-ba42-b25257c429b3.png)
 
